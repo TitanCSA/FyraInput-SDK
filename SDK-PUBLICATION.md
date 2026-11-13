@@ -11,7 +11,7 @@ Current source layout and registry coverage. A GitHub download is distinct from 
 | Python/pypi | built_fixture_and_production_verified | fyrainput [Source](FyraInput-Python-pypi/) |
 | Python/conda-forge | custom_channel_install_verified_requires_conda_forge_review | [fyrainput](https://raw.githubusercontent.com/TitanCSA/sdk-packages/089bc73095aa8eda89bacbe10d0b9e58394b0207/conda-channel) [Source](packaging/conda/) |
 | Rust/cargo | published_install_verified | [fyrainput](https://crates.io/crates/fyrainput) [Source](FyraInput-Rust-cargo/) |
-| JavaScript/npm | submitted_requires_indexing | fyrainput [Source](FyraInput-JavaScript-npm/) |
+| JavaScript/npm | published_install_verified | [fyrainput](https://www.npmjs.com/package/fyrainput) [Source](FyraInput-JavaScript-npm/) |
 | Java/maven | published_install_verified | [fyrainput](https://central.sonatype.com/artifact/io.github.titancsa/fyrainput/1.0.0) [Source](FyraInput-Java-maven/) |
 | Java/jitpack | published_install_verified | [fyrainput](https://jitpack.io/#TitanCSA/FyraInput-SDK/java-sdk-v1.0.0) [Source](FyraInput-Java-maven/) |
 | Go/modules | published_install_verified | [fyrainput](https://pkg.go.dev/github.com/TitanCSA/FyraInput-SDK/FyraInput-Go-modules@v1.0.0) [Source](FyraInput-Go-modules/) |
