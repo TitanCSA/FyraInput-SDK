@@ -1,5 +1,11 @@
 # FyraInput SDK packages
 
+<!-- simple-start:start -->
+Find the code packages for using FyraInput in your own app.
+
+**Start here.** Choose your language and check which runtime it requires.
+<!-- simple-start:end -->
+
 > [!IMPORTANT]
 > **Contact TitanCSA**
 >
